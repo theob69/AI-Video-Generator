@@ -1,1 +1,1 @@
-# AI-AD-Video-Generator
+# AI-ADS-Video-Generator
